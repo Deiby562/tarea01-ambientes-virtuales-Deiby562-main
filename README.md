@@ -99,3 +99,6 @@ Prompt: "Genera documentación clara para este proyecto de aprendizaje de ambien
 ---
 
 **Nota**: Recuerda siempre desactivar tu ambiente virtual cuando termines de trabajar usando `conda deactivate`.
+
+# Uso de IA: Medio
+Se utilizó para generar la estructura de un bingo simple en Python.
