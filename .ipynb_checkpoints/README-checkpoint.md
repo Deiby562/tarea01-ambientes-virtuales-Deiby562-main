@@ -2,7 +2,7 @@
 # Introducción a ambientes virtuales con Conda
 
 ## Autor
-Deiby Rodríguez - [12/02/2026]
+[TU NOMBRE AQUÍ] - [FECHA]
 
 ## Descripción
 Este repositorio contiene una tarea práctica para aprender a crear y gestionar ambientes virtuales en Conda. Los estudiantes aprenderán a configurar un entorno de desarrollo aislado, instalar paquetes específicos y crear código Python funcional.
